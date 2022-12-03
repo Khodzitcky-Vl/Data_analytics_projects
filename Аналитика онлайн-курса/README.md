@@ -1,4 +1,4 @@
-![elearning](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intracon-spain.com%2Felearning-learning-to-learn-on-your-own%2F&psig=AOvVaw0BcXvHL-kTXJWhQn7G4xwC&ust=1670142967988000&source=images&cd=vfe&ved=0CBAQjRxqGAoTCPCb2cSF3fsCFQAAAAAdAAAAABCaBQ)
+![elearning](https://user-images.githubusercontent.com/102512648/205432310-642fe591-91e9-43f5-8bb5-8c90cef78b25.png)
 
 ## Описание проекта
 
