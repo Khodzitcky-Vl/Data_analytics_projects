@@ -12,7 +12,7 @@
 
 **Логическая схема базы данных :**
 
-https://ucarecdn.com/df6e64a7-45f3-4914-8d4b-1f2f272a0e40/![image](https://user-images.githubusercontent.com/102512648/205431847-b560aab9-bf63-4611-a78a-643a6474f4f3.png)
+[Логическая схема базы данных](https://user-images.githubusercontent.com/102512648/205431847-b560aab9-bf63-4611-a78a-643a6474f4f3.png)
 
 **Структура и частичное наполнение таблиц:**
 
