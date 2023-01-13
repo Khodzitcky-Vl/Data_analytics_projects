@@ -1,4 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.advance-metrics.com%2Fen%2Fblog%2Fan-introduction-to-the-wonderful-world-of-a-b-testing%2F&psig=AOvVaw3kDZa_Imz67ivwg9gYWwA7&ust=1673704567677000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCND44cPZxPwCFQAAAAAdAAAAABAg![image](https://user-images.githubusercontent.com/102512648/212336609-0009471c-1f50-4bca-a84e-810a4303a3eb.png)
+![a/b](https://user-images.githubusercontent.com/102512648/212336783-b18b6247-ec50-41c4-b687-81b4d7b2e979.png)
+
 
 ## Описание проекта 
 
